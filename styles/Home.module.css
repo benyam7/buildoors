@@ -1,3 +1,8 @@
 .container {
-  background: "#1f1f1f";
+  background: #1f1f1f;
+}
+
+/* this will overide the default styling of MultiWalletButton */
+.wallet-adapter-button-trigger {
+  background-color: #833bbe;
 }
